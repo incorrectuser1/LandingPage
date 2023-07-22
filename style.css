@@ -96,6 +96,8 @@ img {
    height: 150px;
    border: 4px solid rgb(60, 102, 165);
    border-radius: 16px;
+   margin-bottom: 10px;
+   margin-top: 10px;
 }
 
 .subtext {
@@ -105,4 +107,42 @@ img {
 
 .secmid {
     display: flex;
+    justify-content: center;
+    gap: 20px
+    ;
+
 }
+
+.subtext {
+    flex-wrap: wrap;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.center {
+    padding-bottom: 100px;
+}
+
+.third-sec {
+    background-color: #e5e7eb;
+    padding-left: 24rem;
+    padding-right: 24rem;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+.maincont {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.authorname {
+    font-size: 23px;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
