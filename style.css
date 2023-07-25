@@ -138,11 +138,60 @@ img {
 }
 
 .authorname {
-    font-size: 23px;
+    font-size: 24px;
     font-weight: bold;
     display: flex;
     justify-content: flex-end;
 }
 
+.fourth-sec {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.call-to-action {
+    align-items: center;
+    background-color: #3882f6;
+    border-radius: 8px;
+    width: 66rem;
+    padding-left: 6rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.its-time {
+    font-size: 26px;
+    color: white;
+    font-weight: bold;
+}
+
+.second-action {
+    font-size: 18px;
+    color: white;
+}
+
+.call-sign {
+    background-color: #3882f6;
+    color: white;
+    font-size: 16px;
+    border: 2px solid white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 8px;
+    margin-left: 16rem;
+}
 
 
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.foot {
+    color: white;
+    font-size: 18px;
+}
